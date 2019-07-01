@@ -1,0 +1,11 @@
+{
+  "name": "r3l",
+  "version": "1.0.0",
+  "description": "bot r3l",
+  "main": "main.js",
+  "scripts": {
+    "test": "r!help"
+  },
+  "author": "r3l",
+  "license": "ISC"
+}
